@@ -8,6 +8,8 @@ This project focuses on developing an energy consumption prediction model using 
 
 [blog](https://xiaochuany.github.io/1principle/posts/gist/makemore.html)
 
+[example](https://github.com/xiaochuany/timeseries)
+
 Datasets:
 
 [uci](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
