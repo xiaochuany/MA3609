@@ -2,13 +2,13 @@
 
 ## Energy consumption prediction with neural networks
 
-This project focuses on developing an energy consumption prediction model using neural networks, in particular RNN and Transformer architectures. By leveraging historical consumption data and considering influencing factors like time, weather, and external variables, neural networks can learn patterns and relationships to make robust predictions. The project entails data preprocessing, model architecture design, training, and validation. Evaluation metrics such as MAE and RMSE will quantify prediction accuracy, with visualization showcasing predicted versus actual consumption.
+This project focuses on developing an energy consumption prediction model using neural networks, in particular RNN and Transformer architectures. By leveraging historical consumption data and considering influencing factors like time, weather, and external variables, neural networks can learn patterns and relationships to make robust predictions. The project entails data preprocessing, model architecture design, training, and validation. Evaluation metrics such as RMSE and MAPE will quantify prediction accuracy, with visualization showcasing predicted versus actual consumption.
 
 [neural networks: zero to hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 [blog](https://xiaochuany.github.io/1principle/posts/gist/makemore.html)
 
-[example](https://github.com/xiaochuany/timeseries)
+[example code](https://github.com/xiaochuany/timeseries)
 
 Datasets:
 
