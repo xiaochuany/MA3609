@@ -4,17 +4,16 @@
 
 This project focuses on developing an energy consumption prediction model using neural networks, in particular RNN and Transformer architectures. By leveraging historical consumption data and considering influencing factors like time, weather, and external variables, neural networks can learn patterns and relationships to make robust predictions. The project entails data preprocessing, model architecture design, training, and validation. Evaluation metrics such as RMSE and MAPE will quantify prediction accuracy, with visualization showcasing predicted versus actual consumption.
 
-[neural networks: zero to hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+### Reference 
 
-[blog](https://xiaochuany.github.io/1principle/posts/gist/makemore.html)
+- [neural networks: zero to hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)  
+- [blog](https://xiaochuany.github.io/1principle/posts/gist/makemore.html)  
+- [code](https://github.com/xiaochuany/nextval)
 
-[example code](https://github.com/xiaochuany/timeseries)
+### Datasets:
 
-Datasets:
-
-[uci](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
- 
-[kaggle](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
+- [uci](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)  
+- [kaggle](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
 
 
 
@@ -23,14 +22,14 @@ Datasets:
 
 This project focuses on utilizing time series analysis to study climate data patterns. By applying techniques like ARIMA, Seasonal Decomposition, and Fourier Transforms, the project aims to uncover trends, cyclic variations, and correlations within publicly available climate datasets.
 
+### Reference
 
-[notes](https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf)
+[classic textbook by Blackwell and Davis](https://warin.ca/ressources/books/2016_Book_IntroductionToTimeSeriesAndFor.pdf)  *Note: not sure whether this is a legal copy, use with caution*
 
-Datasets:
+### Datasets:
 
-[uci](https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+farm)  
-
-[kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+- [uci](https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+farm)  
+- [kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
 
 
 
@@ -41,9 +40,12 @@ $k$-NN is an off-the-shelf machine learning method for classification and regres
 
 The second part of the project involves simulating the $k$-NN distances and justifying the theoretical results explored in the first part. These results will also be used to justify a fast implementation of the $k$-NN algorithm.
 
-See, e.g. Penrose (2003) Random Geometric Graphs
 
-[paper](https://arxiv.org/abs/2301.02506)
+### Reference
+
+- Penrose (2003) Random Geometric Graphs
+- [paper](https://arxiv.org/abs/2301.02506)
+- [code](https://github.com/xiaochuany/geography)
 
 
 ## Small clusters of random geometric graphs
@@ -56,9 +58,9 @@ This project provides an opportunity to explore in depth the theory  and applica
 - Theory: characterize the asymptotic distribution of the total number of small clusters (cluster of order $k$ for some fixed $k$) as the total number of points grows to infinity.   
 - Coding: simulate random geometric graphs and use algorithms (e.g. DFS) for finding the total number of clusters of a graph.   
 
-See e.g. Penrose (2003) Random Geometric Graphs
+### Reference 
 
-
-[paper](https://arxiv.org/abs/2209.14758)
-
-[tools for visualisation](https://networkx.org/documentation/stable/auto_examples/drawing/plot_random_geometric_graph.html)
+- Penrose (2003) Random Geometric Graphs
+- [paper](https://arxiv.org/abs/2209.14758)
+- [tools for visualisation](https://networkx.org/documentation/stable/auto_examples/drawing/plot_random_geometric_graph.html)
+- [code](https://github.com/xiaochuany/geography)
